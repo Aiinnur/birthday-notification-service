@@ -1,0 +1,12 @@
+postgres_url: "postgresql://postgres:root1234@localhost:5432/birthdayservice"
+http_server:
+  address: "localhost:8080"
+  timeout: 4s
+  idle_timeout: 60s
+  user: "ainur"
+  password: "qwerty123"
+smtp_server:
+  smtpAddress: "smtp.gmail.com"
+  smtpPort: "587"
+  smtpUser: "ajnurmuratov45@gmail.com"
+  smtpPassword: "password"
